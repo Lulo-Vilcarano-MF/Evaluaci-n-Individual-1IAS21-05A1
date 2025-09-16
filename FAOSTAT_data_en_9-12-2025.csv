@@ -1,205 +1,205 @@
-Domain Code,Domain,Area Code (M49),Country,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,,,Region
-BE,Bioenergy,004,Afghanistan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,18558,X,Figure from external organization,,,Asia
-BE,Bioenergy,008,Albania,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6155,X,Figure from external organization,,,Europe
-BE,Bioenergy,012,Algeria,5852,Energy production,6525,Fuelwood,2022,2022,TJ,741,X,Figure from external organization,,,Africa
-BE,Bioenergy,024,Angola,5852,Energy production,6525,Fuelwood,2022,2022,TJ,177651,X,Figure from external organization,,,Africa
-BE,Bioenergy,660,Anguilla,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1,X,Figure from external organization,,,Unknown
-BE,Bioenergy,032,Argentina,5852,Energy production,6525,Fuelwood,2022,2022,TJ,51134,X,Figure from external organization,,,South America
-BE,Bioenergy,051,Armenia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,5036,X,Figure from external organization,,,Asia
-BE,Bioenergy,533,Aruba,5852,Energy production,6525,Fuelwood,2022,2022,TJ,24,X,Figure from external organization,,,Unknown
-BE,Bioenergy,654,"Ascension, Saint Helena and Tristan da Cunha",5852,Energy production,6525,Fuelwood,2022,2022,TJ,5,X,Figure from external organization,,,Unknown
-BE,Bioenergy,036,Australia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,69320,X,Figure from external organization,,,Oceania
-BE,Bioenergy,040,Austria,5852,Energy production,6525,Fuelwood,2022,2022,TJ,165614,X,Figure from external organization,,,Europe
-BE,Bioenergy,031,Azerbaijan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,643,X,Figure from external organization,,,Asia
-BE,Bioenergy,044,Bahamas,5852,Energy production,6525,Fuelwood,2022,2022,TJ,310,X,Figure from external organization,,,North America
-BE,Bioenergy,048,Bahrain,5852,Energy production,6525,Fuelwood,2022,2022,TJ,69,X,Figure from external organization,,,Asia
-BE,Bioenergy,050,Bangladesh,5852,Energy production,6525,Fuelwood,2022,2022,TJ,281718,X,Figure from external organization,,,Asia
-BE,Bioenergy,052,Barbados,5852,Energy production,6525,Fuelwood,2022,2022,TJ,42,X,Figure from external organization,,,North America
-BE,Bioenergy,112,Belarus,5852,Energy production,6525,Fuelwood,2022,2022,TJ,65959,X,Figure from external organization,,,Europe
-BE,Bioenergy,056,Belgium,5852,Energy production,6525,Fuelwood,2022,2022,TJ,45108,X,Figure from external organization,,,Europe
-BE,Bioenergy,084,Belize,5852,Energy production,6525,Fuelwood,2022,2022,TJ,671,X,Figure from external organization,,,North America
-BE,Bioenergy,204,Benin,5852,Energy production,6525,Fuelwood,2022,2022,TJ,122682,X,Figure from external organization,,,Africa
-BE,Bioenergy,064,Bhutan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,49329,X,Figure from external organization,,,Asia
-BE,Bioenergy,068,Bolivia (Plurinational State of),5852,Energy production,6525,Fuelwood,2022,2022,TJ,6742,X,Figure from external organization,,,Unknown
-BE,Bioenergy,070,Bosnia and Herzegovina,5852,Energy production,6525,Fuelwood,2022,2022,TJ,63433,X,Figure from external organization,,,Europe
-BE,Bioenergy,072,Botswana,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6392,X,Figure from external organization,,,Africa
-BE,Bioenergy,076,Brazil,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1108195,X,Figure from external organization,,,South America
-BE,Bioenergy,092,British Virgin Islands,5852,Energy production,6525,Fuelwood,2022,2022,TJ,16,X,Figure from external organization,,,Unknown
-BE,Bioenergy,096,Brunei Darussalam,5852,Energy production,6525,Fuelwood,2022,2022,TJ,106,X,Figure from external organization,,,Unknown
-BE,Bioenergy,100,Bulgaria,5852,Energy production,6525,Fuelwood,2022,2022,TJ,42260,X,Figure from external organization,,,Europe
-BE,Bioenergy,854,Burkina Faso,5852,Energy production,6525,Fuelwood,2022,2022,TJ,182855,X,Figure from external organization,,,Africa
-BE,Bioenergy,108,Burundi,5852,Energy production,6525,Fuelwood,2022,2022,TJ,54800,X,Figure from external organization,,,Africa
-BE,Bioenergy,132,Cabo Verde,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1351,X,Figure from external organization,,,Africa
-BE,Bioenergy,116,Cambodia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,62867,X,Figure from external organization,,,Asia
-BE,Bioenergy,120,Cameroon,5852,Energy production,6525,Fuelwood,2022,2022,TJ,309242,X,Figure from external organization,,,Africa
-BE,Bioenergy,124,Canada,5852,Energy production,6525,Fuelwood,2022,2022,TJ,298028,X,Figure from external organization,,,North America
-BE,Bioenergy,140,Central African Republic,5852,Energy production,6525,Fuelwood,2022,2022,TJ,43380,X,Figure from external organization,,,Africa
-BE,Bioenergy,148,Chad,5852,Energy production,6525,Fuelwood,2022,2022,TJ,77053,X,Figure from external organization,,,Africa
-BE,Bioenergy,152,Chile,5852,Energy production,6525,Fuelwood,2022,2022,TJ,231882,X,Figure from external organization,,,South America
-BE,Bioenergy,159,China,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1388157,X,Figure from external organization,,,Asia
-BE,Bioenergy,156,"China, mainland",5852,Energy production,6525,Fuelwood,2022,2022,TJ,1380987,X,Figure from external organization,,,Unknown
-BE,Bioenergy,158,"China, Taiwan Province of",5852,Energy production,6525,Fuelwood,2022,2022,TJ,7170,X,Figure from external organization,,,Unknown
-BE,Bioenergy,170,Colombia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,104457,X,Figure from external organization,,,South America
-BE,Bioenergy,174,Comoros,5852,Energy production,6525,Fuelwood,2022,2022,TJ,4046,X,Figure from external organization,,,Africa
-BE,Bioenergy,178,Congo,5852,Energy production,6525,Fuelwood,2022,2022,TJ,48244,X,Figure from external organization,,,Africa
-BE,Bioenergy,188,Costa Rica,5852,Energy production,6525,Fuelwood,2022,2022,TJ,5363,X,Figure from external organization,,,North America
-BE,Bioenergy,384,Côte d'Ivoire,5852,Energy production,6525,Fuelwood,2022,2022,TJ,359500,X,Figure from external organization,,,Unknown
-BE,Bioenergy,191,Croatia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,66525,X,Figure from external organization,,,Europe
-BE,Bioenergy,192,Cuba,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6020,X,Figure from external organization,,,North America
-BE,Bioenergy,196,Cyprus,5852,Energy production,6525,Fuelwood,2022,2022,TJ,966,X,Figure from external organization,,,Asia
-BE,Bioenergy,203,Czechia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,131798,X,Figure from external organization,,,Unknown
-BE,Bioenergy,408,Democratic People's Republic of Korea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,47358,X,Figure from external organization,,,Unknown
-BE,Bioenergy,180,Democratic Republic of the Congo,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1357594,X,Figure from external organization,,,Africa
-BE,Bioenergy,208,Denmark,5852,Energy production,6525,Fuelwood,2022,2022,TJ,43884,X,Figure from external organization,,,Europe
-BE,Bioenergy,262,Djibouti,5852,Energy production,6525,Fuelwood,2022,2022,TJ,3837,X,Figure from external organization,,,Africa
-BE,Bioenergy,212,Dominica,5852,Energy production,6525,Fuelwood,2022,2022,TJ,66,X,Figure from external organization,,,North America
-BE,Bioenergy,214,Dominican Republic,5852,Energy production,6525,Fuelwood,2022,2022,TJ,21750,X,Figure from external organization,,,North America
-BE,Bioenergy,218,Ecuador,5852,Energy production,6525,Fuelwood,2022,2022,TJ,8707,X,Figure from external organization,,,South America
-BE,Bioenergy,818,Egypt,5852,Energy production,6525,Fuelwood,2022,2022,TJ,142112,X,Figure from external organization,,,Africa
-BE,Bioenergy,222,El Salvador,5852,Energy production,6525,Fuelwood,2022,2022,TJ,4094,X,Figure from external organization,,,North America
-BE,Bioenergy,226,Equatorial Guinea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,4083,X,Figure from external organization,,,Africa
-BE,Bioenergy,232,Eritrea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,27515,X,Figure from external organization,,,Africa
-BE,Bioenergy,233,Estonia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,62268,X,Figure from external organization,,,Europe
-BE,Bioenergy,748,Eswatini,5852,Energy production,6525,Fuelwood,2022,2022,TJ,12062,X,Figure from external organization,,,Africa
-BE,Bioenergy,231,Ethiopia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1396178,X,Figure from external organization,,,Africa
-BE,Bioenergy,242,Fiji,5852,Energy production,6525,Fuelwood,2022,2022,TJ,337,X,Figure from external organization,,,Oceania
-BE,Bioenergy,246,Finland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,210093,X,Figure from external organization,,,Europe
-BE,Bioenergy,250,France,5852,Energy production,6525,Fuelwood,2022,2022,TJ,375463,X,Figure from external organization,,,Europe
-BE,Bioenergy,254,French Guiana,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,,Unknown
-BE,Bioenergy,258,French Polynesia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,43,X,Figure from external organization,,,Unknown
-BE,Bioenergy,266,Gabon,5852,Energy production,6525,Fuelwood,2022,2022,TJ,28619,X,Figure from external organization,,,Africa
-BE,Bioenergy,270,Gambia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7314,X,Figure from external organization,,,Africa
-BE,Bioenergy,268,Georgia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7416,X,Figure from external organization,,,Asia
-BE,Bioenergy,276,Germany,5852,Energy production,6525,Fuelwood,2022,2022,TJ,551412,X,Figure from external organization,,,Europe
-BE,Bioenergy,280,Germany Fr,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,M,Missing value; data cannot exist,,,Unknown
-BE,Bioenergy,278,Germany Nl,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,M,Missing value; data cannot exist,,,Unknown
-BE,Bioenergy,288,Ghana,5852,Energy production,6525,Fuelwood,2022,2022,TJ,183388,X,Figure from external organization,,,Africa
-BE,Bioenergy,300,Greece,5852,Energy production,6525,Fuelwood,2022,2022,TJ,27925,X,Figure from external organization,,,Europe
-BE,Bioenergy,308,Grenada,5852,Energy production,6525,Fuelwood,2022,2022,TJ,308,X,Figure from external organization,,,North America
-BE,Bioenergy,312,Guadeloupe,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,,Unknown
-BE,Bioenergy,320,Guatemala,5852,Energy production,6525,Fuelwood,2022,2022,TJ,369926,X,Figure from external organization,,,North America
-BE,Bioenergy,324,Guinea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,114275,X,Figure from external organization,,,Africa
-BE,Bioenergy,624,Guinea-Bissau,5852,Energy production,6525,Fuelwood,2022,2022,TJ,15120,X,Figure from external organization,,,Africa
-BE,Bioenergy,328,Guyana,5852,Energy production,6525,Fuelwood,2022,2022,TJ,823,X,Figure from external organization,,,South America
-BE,Bioenergy,332,Haiti,5852,Energy production,6525,Fuelwood,2022,2022,TJ,140459,X,Figure from external organization,,,North America
-BE,Bioenergy,340,Honduras,5852,Energy production,6525,Fuelwood,2022,2022,TJ,51261,X,Figure from external organization,,,North America
-BE,Bioenergy,348,Hungary,5852,Energy production,6525,Fuelwood,2022,2022,TJ,75325,X,Figure from external organization,,,Europe
-BE,Bioenergy,352,Iceland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,,Europe
-BE,Bioenergy,356,India,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6226970,X,Figure from external organization,,,Asia
-BE,Bioenergy,360,Indonesia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,677365,X,Figure from external organization,,,Asia
-BE,Bioenergy,364,Iran (Islamic Republic of),5852,Energy production,6525,Fuelwood,2022,2022,TJ,74450,X,Figure from external organization,,,Unknown
-BE,Bioenergy,368,Iraq,5852,Energy production,6525,Fuelwood,2022,2022,TJ,2220,X,Figure from external organization,,,Asia
-BE,Bioenergy,372,Ireland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,10439,X,Figure from external organization,,,Europe
-BE,Bioenergy,376,Israel,5852,Energy production,6525,Fuelwood,2022,2022,TJ,183,X,Figure from external organization,,,Asia
-BE,Bioenergy,380,Italy,5852,Energy production,6525,Fuelwood,2022,2022,TJ,290138,X,Figure from external organization,,,Europe
-BE,Bioenergy,388,Jamaica,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7041,X,Figure from external organization,,,North America
-BE,Bioenergy,392,Japan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,97358,X,Figure from external organization,,,Asia
-BE,Bioenergy,400,Jordan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,3612,X,Figure from external organization,,,Asia
-BE,Bioenergy,398,Kazakhstan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,323,X,Figure from external organization,,,Asia
-BE,Bioenergy,404,Kenya,5852,Energy production,6525,Fuelwood,2022,2022,TJ,723165,X,Figure from external organization,,,Africa
-BE,Bioenergy,296,Kiribati,5852,Energy production,6525,Fuelwood,2022,2022,TJ,70,X,Figure from external organization,,,Oceania
-BE,Bioenergy,414,Kuwait,5852,Energy production,6525,Fuelwood,2022,2022,TJ,194,X,Figure from external organization,,,Asia
-BE,Bioenergy,417,Kyrgyzstan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,59,X,Figure from external organization,,,Asia
-BE,Bioenergy,418,Lao People's Democratic Republic,5852,Energy production,6525,Fuelwood,2022,2022,TJ,51356,X,Figure from external organization,,,Unknown
-BE,Bioenergy,428,Latvia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,105119,X,Figure from external organization,,,Europe
-BE,Bioenergy,422,Lebanon,5852,Energy production,6525,Fuelwood,2022,2022,TJ,5024,X,Figure from external organization,,,Asia
-BE,Bioenergy,426,Lesotho,5852,Energy production,6525,Fuelwood,2022,2022,TJ,9087,X,Figure from external organization,,,Africa
-BE,Bioenergy,430,Liberia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,95176,X,Figure from external organization,,,Africa
-BE,Bioenergy,434,Libya,5852,Energy production,6525,Fuelwood,2022,2022,TJ,26036,X,Figure from external organization,,,Africa
-BE,Bioenergy,438,Liechtenstein,5852,Energy production,6525,Fuelwood,2022,2022,TJ,118,X,Figure from external organization,,,Europe
-BE,Bioenergy,440,Lithuania,5852,Energy production,6525,Fuelwood,2022,2022,TJ,52650,X,Figure from external organization,,,Europe
-BE,Bioenergy,442,Luxembourg,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7599,X,Figure from external organization,,,Europe
-BE,Bioenergy,450,Madagascar,5852,Energy production,6525,Fuelwood,2022,2022,TJ,338122,X,Figure from external organization,,,Africa
-BE,Bioenergy,454,Malawi,5852,Energy production,6525,Fuelwood,2022,2022,TJ,137220,X,Figure from external organization,,,Africa
-BE,Bioenergy,458,Malaysia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,21135,X,Figure from external organization,,,Asia
-BE,Bioenergy,462,Maldives,5852,Energy production,6525,Fuelwood,2022,2022,TJ,153,X,Figure from external organization,,,Asia
-BE,Bioenergy,466,Mali,5852,Energy production,6525,Fuelwood,2022,2022,TJ,148845,X,Figure from external organization,,,Africa
-BE,Bioenergy,474,Martinique,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,,Unknown
-BE,Bioenergy,478,Mauritania,5852,Energy production,6525,Fuelwood,2022,2022,TJ,21330,X,Figure from external organization,,,Africa
-BE,Bioenergy,480,Mauritius,5852,Energy production,6525,Fuelwood,2022,2022,TJ,139,X,Figure from external organization,,,Africa
-BE,Bioenergy,175,Mayotte,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,,Unknown
-BE,Bioenergy,484,Mexico,5852,Energy production,6525,Fuelwood,2022,2022,TJ,242124,X,Figure from external organization,,,North America
-BE,Bioenergy,583,Micronesia (Federated States of),5852,Energy production,6525,Fuelwood,2022,2022,TJ,25,X,Figure from external organization,,,Unknown
-BE,Bioenergy,496,Mongolia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6697,X,Figure from external organization,,,Asia
-BE,Bioenergy,499,Montenegro,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7897,X,Figure from external organization,,,Europe
-BE,Bioenergy,504,Morocco,5852,Energy production,6525,Fuelwood,2022,2022,TJ,59503,X,Figure from external organization,,,Africa
-BE,Bioenergy,508,Mozambique,5852,Energy production,6525,Fuelwood,2022,2022,TJ,296834,X,Figure from external organization,,,Africa
-BE,Bioenergy,104,Myanmar,5852,Energy production,6525,Fuelwood,2022,2022,TJ,421455,X,Figure from external organization,,,Asia
-BE,Bioenergy,516,Namibia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,26656,X,Figure from external organization,,,Africa
-BE,Bioenergy,524,Nepal,5852,Energy production,6525,Fuelwood,2022,2022,TJ,379482,X,Figure from external organization,,,Asia
-BE,Bioenergy,528,Netherlands (Kingdom of the),5852,Energy production,6525,Fuelwood,2022,2022,TJ,45793,X,Figure from external organization,,,Unknown
-BE,Bioenergy,540,New Caledonia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,120,X,Figure from external organization,,,Unknown
-BE,Bioenergy,554,New Zealand,5852,Energy production,6525,Fuelwood,2022,2022,TJ,31472,X,Figure from external organization,,,Oceania
-BE,Bioenergy,558,Nicaragua,5852,Energy production,6525,Fuelwood,2022,2022,TJ,46976,X,Figure from external organization,,,North America
-BE,Bioenergy,562,Niger,5852,Energy production,6525,Fuelwood,2022,2022,TJ,97594,X,Figure from external organization,,,Africa
-BE,Bioenergy,566,Nigeria,5852,Energy production,6525,Fuelwood,2022,2022,TJ,781872,X,Figure from external organization,,,Africa
-BE,Bioenergy,570,Niue,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,X,Figure from external organization,,,Unknown
-BE,Bioenergy,807,North Macedonia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7194,X,Figure from external organization,,,Europe
-BE,Bioenergy,578,Norway,5852,Energy production,6525,Fuelwood,2022,2022,TJ,48187,X,Figure from external organization,,,Europe
-BE,Bioenergy,512,Oman,5852,Energy production,6525,Fuelwood,2022,2022,TJ,469,X,Figure from external organization,,,Asia
-BE,Bioenergy,586,Pakistan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,294466,X,Figure from external organization,,,Asia
-BE,Bioenergy,275,Palestine,5852,Energy production,6525,Fuelwood,2022,2022,TJ,3759,X,Figure from external organization,,,Asia
-BE,Bioenergy,591,Panama,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6860,X,Figure from external organization,,,North America
-BE,Bioenergy,598,Papua New Guinea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,50543,X,Figure from external organization,,,Oceania
-BE,Bioenergy,600,Paraguay,5852,Energy production,6525,Fuelwood,2022,2022,TJ,95313,X,Figure from external organization,,,South America
-BE,Bioenergy,604,Peru,5852,Energy production,6525,Fuelwood,2022,2022,TJ,114684,X,Figure from external organization,,,South America
-BE,Bioenergy,608,Philippines,5852,Energy production,6525,Fuelwood,2022,2022,TJ,291342,X,Figure from external organization,,,Asia
-BE,Bioenergy,616,Poland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,307613,X,Figure from external organization,,,Europe
-BE,Bioenergy,620,Portugal,5852,Energy production,6525,Fuelwood,2022,2022,TJ,70409,X,Figure from external organization,,,Europe
-BE,Bioenergy,634,Qatar,5852,Energy production,6525,Fuelwood,2022,2022,TJ,46,X,Figure from external organization,,,Asia
-BE,Bioenergy,410,Republic of Korea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,73600,X,Figure from external organization,,,Unknown
-BE,Bioenergy,498,Republic of Moldova,5852,Energy production,6525,Fuelwood,2022,2022,TJ,15662,X,Figure from external organization,,,Unknown
-BE,Bioenergy,638,Réunion,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,,Unknown
-BE,Bioenergy,642,Romania,5852,Energy production,6525,Fuelwood,2022,2022,TJ,145319,X,Figure from external organization,,,Europe
-BE,Bioenergy,643,Russian Federation,5852,Energy production,6525,Fuelwood,2022,2022,TJ,111798,X,Figure from external organization,,,Unknown
-BE,Bioenergy,646,Rwanda,5852,Energy production,6525,Fuelwood,2022,2022,TJ,89888,X,Figure from external organization,,,Africa
-BE,Bioenergy,659,Saint Kitts and Nevis,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,X,Figure from external organization,,,North America
-BE,Bioenergy,662,Saint Lucia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,608,X,Figure from external organization,,,North America
-BE,Bioenergy,666,Saint Pierre and Miquelon,5852,Energy production,6525,Fuelwood,2022,2022,TJ,5,X,Figure from external organization,,,Unknown
-BE,Bioenergy,670,Saint Vincent and the Grenadines,5852,Energy production,6525,Fuelwood,2022,2022,TJ,63,X,Figure from external organization,,,North America
-BE,Bioenergy,882,Samoa,5852,Energy production,6525,Fuelwood,2022,2022,TJ,861,X,Figure from external organization,,,Oceania
-BE,Bioenergy,678,Sao Tome and Principe,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1061,X,Figure from external organization,,,Africa
-BE,Bioenergy,686,Senegal,5852,Energy production,6525,Fuelwood,2022,2022,TJ,75565,X,Figure from external organization,,,Africa
-BE,Bioenergy,688,Serbia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,67641,X,Figure from external organization,,,Europe
-BE,Bioenergy,690,Seychelles,5852,Energy production,6525,Fuelwood,2022,2022,TJ,28,X,Figure from external organization,,,Africa
-BE,Bioenergy,694,Sierra Leone,5852,Energy production,6525,Fuelwood,2022,2022,TJ,56023,X,Figure from external organization,,,Africa
-BE,Bioenergy,702,Singapore,5852,Energy production,6525,Fuelwood,2022,2022,TJ,250,X,Figure from external organization,,,Asia
+Domain Code,Domain,Area Code (M49),Country,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,,sq_km,Region
+BE,Bioenergy,004,Afghanistan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,18558,X,Figure from external organization,,652230,Asia
+BE,Bioenergy,008,Albania,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6155,X,Figure from external organization,,28748,Europe
+BE,Bioenergy,012,Algeria,5852,Energy production,6525,Fuelwood,2022,2022,TJ,741,X,Figure from external organization,,2381740,Africa
+BE,Bioenergy,024,Angola,5852,Energy production,6525,Fuelwood,2022,2022,TJ,177651,X,Figure from external organization,,1246700,Africa
+BE,Bioenergy,660,Anguilla,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1,X,Figure from external organization,,443,Unknown
+BE,Bioenergy,032,Argentina,5852,Energy production,6525,Fuelwood,2022,2022,TJ,51134,X,Figure from external organization,,2780400,South America
+BE,Bioenergy,051,Armenia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,5036,X,Figure from external organization,,29743,Asia
+BE,Bioenergy,533,Aruba,5852,Energy production,6525,Fuelwood,2022,2022,TJ,24,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,654,"Ascension, Saint Helena and Tristan da Cunha",5852,Energy production,6525,Fuelwood,2022,2022,TJ,5,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,036,Australia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,69320,X,Figure from external organization,,7741220,Oceania
+BE,Bioenergy,040,Austria,5852,Energy production,6525,Fuelwood,2022,2022,TJ,165614,X,Figure from external organization,,83871,Europe
+BE,Bioenergy,031,Azerbaijan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,643,X,Figure from external organization,,86600,Asia
+BE,Bioenergy,044,Bahamas,5852,Energy production,6525,Fuelwood,2022,2022,TJ,310,X,Figure from external organization,,13880,North America
+BE,Bioenergy,048,Bahrain,5852,Energy production,6525,Fuelwood,2022,2022,TJ,69,X,Figure from external organization,,760,Asia
+BE,Bioenergy,050,Bangladesh,5852,Energy production,6525,Fuelwood,2022,2022,TJ,281718,X,Figure from external organization,,148460,Asia
+BE,Bioenergy,052,Barbados,5852,Energy production,6525,Fuelwood,2022,2022,TJ,42,X,Figure from external organization,,430,North America
+BE,Bioenergy,112,Belarus,5852,Energy production,6525,Fuelwood,2022,2022,TJ,65959,X,Figure from external organization,,207600,Europe
+BE,Bioenergy,056,Belgium,5852,Energy production,6525,Fuelwood,2022,2022,TJ,45108,X,Figure from external organization,,30528,Europe
+BE,Bioenergy,084,Belize,5852,Energy production,6525,Fuelwood,2022,2022,TJ,671,X,Figure from external organization,,22966,North America
+BE,Bioenergy,204,Benin,5852,Energy production,6525,Fuelwood,2022,2022,TJ,122682,X,Figure from external organization,,112622,Africa
+BE,Bioenergy,064,Bhutan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,49329,X,Figure from external organization,,38394,Asia
+BE,Bioenergy,068,Bolivia (Plurinational State of),5852,Energy production,6525,Fuelwood,2022,2022,TJ,6742,X,Figure from external organization,,1098581,Unknown
+BE,Bioenergy,070,Bosnia and Herzegovina,5852,Energy production,6525,Fuelwood,2022,2022,TJ,63433,X,Figure from external organization,,51197,Europe
+BE,Bioenergy,072,Botswana,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6392,X,Figure from external organization,,581730,Africa
+BE,Bioenergy,076,Brazil,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1108195,X,Figure from external organization,,8515770,South America
+BE,Bioenergy,092,British Virgin Islands,5852,Energy production,6525,Fuelwood,2022,2022,TJ,16,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,096,Brunei Darussalam,5852,Energy production,6525,Fuelwood,2022,2022,TJ,106,X,Figure from external organization,,5765,Unknown
+BE,Bioenergy,100,Bulgaria,5852,Energy production,6525,Fuelwood,2022,2022,TJ,42260,X,Figure from external organization,,110879,Europe
+BE,Bioenergy,854,Burkina Faso,5852,Energy production,6525,Fuelwood,2022,2022,TJ,182855,X,Figure from external organization,,274200,Africa
+BE,Bioenergy,108,Burundi,5852,Energy production,6525,Fuelwood,2022,2022,TJ,54800,X,Figure from external organization,,27830,Africa
+BE,Bioenergy,132,Cabo Verde,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1351,X,Figure from external organization,,4033,Africa
+BE,Bioenergy,116,Cambodia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,62867,X,Figure from external organization,,181035,Asia
+BE,Bioenergy,120,Cameroon,5852,Energy production,6525,Fuelwood,2022,2022,TJ,309242,X,Figure from external organization,,475440,Africa
+BE,Bioenergy,124,Canada,5852,Energy production,6525,Fuelwood,2022,2022,TJ,298028,X,Figure from external organization,,9984670,North America
+BE,Bioenergy,140,Central African Republic,5852,Energy production,6525,Fuelwood,2022,2022,TJ,43380,X,Figure from external organization,,622984,Africa
+BE,Bioenergy,148,Chad,5852,Energy production,6525,Fuelwood,2022,2022,TJ,77053,X,Figure from external organization,,1284000,Africa
+BE,Bioenergy,152,Chile,5852,Energy production,6525,Fuelwood,2022,2022,TJ,231882,X,Figure from external organization,,756102,South America
+BE,Bioenergy,159,China,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1388157,X,Figure from external organization,,9596960,Asia
+BE,Bioenergy,156,"China, mainland",5852,Energy production,6525,Fuelwood,2022,2022,TJ,1380987,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,158,"China, Taiwan Province of",5852,Energy production,6525,Fuelwood,2022,2022,TJ,7170,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,170,Colombia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,104457,X,Figure from external organization,,1138910,South America
+BE,Bioenergy,174,Comoros,5852,Energy production,6525,Fuelwood,2022,2022,TJ,4046,X,Figure from external organization,,2235,Africa
+BE,Bioenergy,178,Congo,5852,Energy production,6525,Fuelwood,2022,2022,TJ,48244,X,Figure from external organization,,0,Africa
+BE,Bioenergy,188,Costa Rica,5852,Energy production,6525,Fuelwood,2022,2022,TJ,5363,X,Figure from external organization,,51100,North America
+BE,Bioenergy,384,C?e d'Ivoire,5852,Energy production,6525,Fuelwood,2022,2022,TJ,359500,X,Figure from external organization,,322463,Unknown
+BE,Bioenergy,191,Croatia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,66525,X,Figure from external organization,,56594,Europe
+BE,Bioenergy,192,Cuba,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6020,X,Figure from external organization,,110860,North America
+BE,Bioenergy,196,Cyprus,5852,Energy production,6525,Fuelwood,2022,2022,TJ,966,X,Figure from external organization,,9251,Asia
+BE,Bioenergy,203,Czechia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,131798,X,Figure from external organization,,43094,Unknown
+BE,Bioenergy,408,Democratic People's Republic of Korea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,47358,X,Figure from external organization,,23200,Unknown
+BE,Bioenergy,180,Democratic Republic of the Congo,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1357594,X,Figure from external organization,,48670,Africa
+BE,Bioenergy,208,Denmark,5852,Energy production,6525,Fuelwood,2022,2022,TJ,43884,X,Figure from external organization,,283561,Europe
+BE,Bioenergy,262,Djibouti,5852,Energy production,6525,Fuelwood,2022,2022,TJ,3837,X,Figure from external organization,,23200,Africa
+BE,Bioenergy,212,Dominica,5852,Energy production,6525,Fuelwood,2022,2022,TJ,66,X,Figure from external organization,,0,North America
+BE,Bioenergy,214,Dominican Republic,5852,Energy production,6525,Fuelwood,2022,2022,TJ,21750,X,Figure from external organization,,48670,North America
+BE,Bioenergy,218,Ecuador,5852,Energy production,6525,Fuelwood,2022,2022,TJ,8707,X,Figure from external organization,,283561,South America
+BE,Bioenergy,818,Egypt,5852,Energy production,6525,Fuelwood,2022,2022,TJ,142112,X,Figure from external organization,,1001450,Africa
+BE,Bioenergy,222,El Salvador,5852,Energy production,6525,Fuelwood,2022,2022,TJ,4094,X,Figure from external organization,,21041,North America
+BE,Bioenergy,226,Equatorial Guinea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,4083,X,Figure from external organization,,28051,Africa
+BE,Bioenergy,232,Eritrea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,27515,X,Figure from external organization,,0,Africa
+BE,Bioenergy,233,Estonia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,62268,X,Figure from external organization,,45228,Europe
+BE,Bioenergy,748,Eswatini,5852,Energy production,6525,Fuelwood,2022,2022,TJ,12062,X,Figure from external organization,,17364,Africa
+BE,Bioenergy,231,Ethiopia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1396178,X,Figure from external organization,,1104300,Africa
+BE,Bioenergy,242,Fiji,5852,Energy production,6525,Fuelwood,2022,2022,TJ,337,X,Figure from external organization,,18274,Oceania
+BE,Bioenergy,246,Finland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,210093,X,Figure from external organization,,338145,Europe
+BE,Bioenergy,250,France,5852,Energy production,6525,Fuelwood,2022,2022,TJ,375463,X,Figure from external organization,,643801,Europe
+BE,Bioenergy,254,French Guiana,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,0,Unknown
+BE,Bioenergy,258,French Polynesia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,43,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,266,Gabon,5852,Energy production,6525,Fuelwood,2022,2022,TJ,28619,X,Figure from external organization,,267667,Africa
+BE,Bioenergy,270,Gambia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7314,X,Figure from external organization,,11300,Africa
+BE,Bioenergy,268,Georgia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7416,X,Figure from external organization,,69700,Asia
+BE,Bioenergy,276,Germany,5852,Energy production,6525,Fuelwood,2022,2022,TJ,551412,X,Figure from external organization,,357022,Europe
+BE,Bioenergy,280,Germany Fr,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,M,Missing value; data cannot exist,,0,Unknown
+BE,Bioenergy,278,Germany Nl,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,M,Missing value; data cannot exist,,0,Unknown
+BE,Bioenergy,288,Ghana,5852,Energy production,6525,Fuelwood,2022,2022,TJ,183388,X,Figure from external organization,,238533,Africa
+BE,Bioenergy,300,Greece,5852,Energy production,6525,Fuelwood,2022,2022,TJ,27925,X,Figure from external organization,,131957,Europe
+BE,Bioenergy,308,Grenada,5852,Energy production,6525,Fuelwood,2022,2022,TJ,308,X,Figure from external organization,,344,North America
+BE,Bioenergy,312,Guadeloupe,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,0,Unknown
+BE,Bioenergy,320,Guatemala,5852,Energy production,6525,Fuelwood,2022,2022,TJ,369926,X,Figure from external organization,,108889,North America
+BE,Bioenergy,324,Guinea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,114275,X,Figure from external organization,,245857,Africa
+BE,Bioenergy,624,Guinea-Bissau,5852,Energy production,6525,Fuelwood,2022,2022,TJ,15120,X,Figure from external organization,,36125,Africa
+BE,Bioenergy,328,Guyana,5852,Energy production,6525,Fuelwood,2022,2022,TJ,823,X,Figure from external organization,,214969,South America
+BE,Bioenergy,332,Haiti,5852,Energy production,6525,Fuelwood,2022,2022,TJ,140459,X,Figure from external organization,,27750,North America
+BE,Bioenergy,340,Honduras,5852,Energy production,6525,Fuelwood,2022,2022,TJ,51261,X,Figure from external organization,,112090,North America
+BE,Bioenergy,348,Hungary,5852,Energy production,6525,Fuelwood,2022,2022,TJ,75325,X,Figure from external organization,,93028,Europe
+BE,Bioenergy,352,Iceland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,103000,Europe
+BE,Bioenergy,356,India,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6226970,X,Figure from external organization,,3287263,Asia
+BE,Bioenergy,360,Indonesia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,677365,X,Figure from external organization,,1904569,Asia
+BE,Bioenergy,364,Iran (Islamic Republic of),5852,Energy production,6525,Fuelwood,2022,2022,TJ,74450,X,Figure from external organization,,1648195,Unknown
+BE,Bioenergy,368,Iraq,5852,Energy production,6525,Fuelwood,2022,2022,TJ,2220,X,Figure from external organization,,438317,Asia
+BE,Bioenergy,372,Ireland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,10439,X,Figure from external organization,,70273,Europe
+BE,Bioenergy,376,Israel,5852,Energy production,6525,Fuelwood,2022,2022,TJ,183,X,Figure from external organization,,21937,Asia
+BE,Bioenergy,380,Italy,5852,Energy production,6525,Fuelwood,2022,2022,TJ,290138,X,Figure from external organization,,301340,Europe
+BE,Bioenergy,388,Jamaica,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7041,X,Figure from external organization,,10991,North America
+BE,Bioenergy,392,Japan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,97358,X,Figure from external organization,,377915,Asia
+BE,Bioenergy,400,Jordan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,3612,X,Figure from external organization,,89342,Asia
+BE,Bioenergy,398,Kazakhstan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,323,X,Figure from external organization,,2724900,Asia
+BE,Bioenergy,404,Kenya,5852,Energy production,6525,Fuelwood,2022,2022,TJ,723165,X,Figure from external organization,,580367,Africa
+BE,Bioenergy,296,Kiribati,5852,Energy production,6525,Fuelwood,2022,2022,TJ,70,X,Figure from external organization,,0,Oceania
+BE,Bioenergy,414,Kuwait,5852,Energy production,6525,Fuelwood,2022,2022,TJ,194,X,Figure from external organization,,17818,Asia
+BE,Bioenergy,417,Kyrgyzstan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,59,X,Figure from external organization,,199951,Asia
+BE,Bioenergy,418,Lao People's Democratic Republic,5852,Energy production,6525,Fuelwood,2022,2022,TJ,51356,X,Figure from external organization,,236800,Unknown
+BE,Bioenergy,428,Latvia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,105119,X,Figure from external organization,,64589,Europe
+BE,Bioenergy,422,Lebanon,5852,Energy production,6525,Fuelwood,2022,2022,TJ,5024,X,Figure from external organization,,10400,Asia
+BE,Bioenergy,426,Lesotho,5852,Energy production,6525,Fuelwood,2022,2022,TJ,9087,X,Figure from external organization,,30355,Africa
+BE,Bioenergy,430,Liberia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,95176,X,Figure from external organization,,111369,Africa
+BE,Bioenergy,434,Libya,5852,Energy production,6525,Fuelwood,2022,2022,TJ,26036,X,Figure from external organization,,1759540,Africa
+BE,Bioenergy,438,Liechtenstein,5852,Energy production,6525,Fuelwood,2022,2022,TJ,118,X,Figure from external organization,,0,Europe
+BE,Bioenergy,440,Lithuania,5852,Energy production,6525,Fuelwood,2022,2022,TJ,52650,X,Figure from external organization,,65300,Europe
+BE,Bioenergy,442,Luxembourg,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7599,X,Figure from external organization,,2586,Europe
+BE,Bioenergy,450,Madagascar,5852,Energy production,6525,Fuelwood,2022,2022,TJ,338122,X,Figure from external organization,,587041,Africa
+BE,Bioenergy,454,Malawi,5852,Energy production,6525,Fuelwood,2022,2022,TJ,137220,X,Figure from external organization,,118484,Africa
+BE,Bioenergy,458,Malaysia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,21135,X,Figure from external organization,,329847,Asia
+BE,Bioenergy,462,Maldives,5852,Energy production,6525,Fuelwood,2022,2022,TJ,153,X,Figure from external organization,,298,Asia
+BE,Bioenergy,466,Mali,5852,Energy production,6525,Fuelwood,2022,2022,TJ,148845,X,Figure from external organization,,1240192,Africa
+BE,Bioenergy,474,Martinique,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,0,Unknown
+BE,Bioenergy,478,Mauritania,5852,Energy production,6525,Fuelwood,2022,2022,TJ,21330,X,Figure from external organization,,1030700,Africa
+BE,Bioenergy,480,Mauritius,5852,Energy production,6525,Fuelwood,2022,2022,TJ,139,X,Figure from external organization,,2040,Africa
+BE,Bioenergy,175,Mayotte,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,0,Unknown
+BE,Bioenergy,484,Mexico,5852,Energy production,6525,Fuelwood,2022,2022,TJ,242124,X,Figure from external organization,,1964375,North America
+BE,Bioenergy,583,Micronesia (Federated States of),5852,Energy production,6525,Fuelwood,2022,2022,TJ,25,X,Figure from external organization,,702,Unknown
+BE,Bioenergy,496,Mongolia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6697,X,Figure from external organization,,1564116,Asia
+BE,Bioenergy,499,Montenegro,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7897,X,Figure from external organization,,13812,Europe
+BE,Bioenergy,504,Morocco,5852,Energy production,6525,Fuelwood,2022,2022,TJ,59503,X,Figure from external organization,,716550,Africa
+BE,Bioenergy,508,Mozambique,5852,Energy production,6525,Fuelwood,2022,2022,TJ,296834,X,Figure from external organization,,799380,Africa
+BE,Bioenergy,104,Myanmar,5852,Energy production,6525,Fuelwood,2022,2022,TJ,421455,X,Figure from external organization,,0,Asia
+BE,Bioenergy,516,Namibia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,26656,X,Figure from external organization,,824292,Africa
+BE,Bioenergy,524,Nepal,5852,Energy production,6525,Fuelwood,2022,2022,TJ,379482,X,Figure from external organization,,147181,Asia
+BE,Bioenergy,528,Netherlands (Kingdom of the),5852,Energy production,6525,Fuelwood,2022,2022,TJ,45793,X,Figure from external organization,,41543,Unknown
+BE,Bioenergy,540,New Caledonia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,120,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,554,New Zealand,5852,Energy production,6525,Fuelwood,2022,2022,TJ,31472,X,Figure from external organization,,268838,Oceania
+BE,Bioenergy,558,Nicaragua,5852,Energy production,6525,Fuelwood,2022,2022,TJ,46976,X,Figure from external organization,,130370,North America
+BE,Bioenergy,562,Niger,5852,Energy production,6525,Fuelwood,2022,2022,TJ,97594,X,Figure from external organization,,1267000,Africa
+BE,Bioenergy,566,Nigeria,5852,Energy production,6525,Fuelwood,2022,2022,TJ,781872,X,Figure from external organization,,923768,Africa
+BE,Bioenergy,570,Niue,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,807,North Macedonia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7194,X,Figure from external organization,,0,Europe
+BE,Bioenergy,578,Norway,5852,Energy production,6525,Fuelwood,2022,2022,TJ,48187,X,Figure from external organization,,323802,Europe
+BE,Bioenergy,512,Oman,5852,Energy production,6525,Fuelwood,2022,2022,TJ,469,X,Figure from external organization,,309500,Asia
+BE,Bioenergy,586,Pakistan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,294466,X,Figure from external organization,,796095,Asia
+BE,Bioenergy,275,Palestine,5852,Energy production,6525,Fuelwood,2022,2022,TJ,3759,X,Figure from external organization,,0,Asia
+BE,Bioenergy,591,Panama,5852,Energy production,6525,Fuelwood,2022,2022,TJ,6860,X,Figure from external organization,,75420,North America
+BE,Bioenergy,598,Papua New Guinea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,50543,X,Figure from external organization,,462840,Oceania
+BE,Bioenergy,600,Paraguay,5852,Energy production,6525,Fuelwood,2022,2022,TJ,95313,X,Figure from external organization,,406752,South America
+BE,Bioenergy,604,Peru,5852,Energy production,6525,Fuelwood,2022,2022,TJ,114684,X,Figure from external organization,,1285216,South America
+BE,Bioenergy,608,Philippines,5852,Energy production,6525,Fuelwood,2022,2022,TJ,291342,X,Figure from external organization,,300000,Asia
+BE,Bioenergy,616,Poland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,307613,X,Figure from external organization,,312685,Europe
+BE,Bioenergy,620,Portugal,5852,Energy production,6525,Fuelwood,2022,2022,TJ,70409,X,Figure from external organization,,92090,Europe
+BE,Bioenergy,634,Qatar,5852,Energy production,6525,Fuelwood,2022,2022,TJ,46,X,Figure from external organization,,11586,Asia
+BE,Bioenergy,410,Republic of Korea,5852,Energy production,6525,Fuelwood,2022,2022,TJ,73600,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,498,Republic of Moldova,5852,Energy production,6525,Fuelwood,2022,2022,TJ,15662,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,638,R?nion,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,O,Missing value,,0,Unknown
+BE,Bioenergy,642,Romania,5852,Energy production,6525,Fuelwood,2022,2022,TJ,145319,X,Figure from external organization,,238391,Europe
+BE,Bioenergy,643,Russian Federation,5852,Energy production,6525,Fuelwood,2022,2022,TJ,111798,X,Figure from external organization,,17098242,Unknown
+BE,Bioenergy,646,Rwanda,5852,Energy production,6525,Fuelwood,2022,2022,TJ,89888,X,Figure from external organization,,26338,Africa
+BE,Bioenergy,659,Saint Kitts and Nevis,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,X,Figure from external organization,,0,North America
+BE,Bioenergy,662,Saint Lucia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,608,X,Figure from external organization,,0,North America
+BE,Bioenergy,666,Saint Pierre and Miquelon,5852,Energy production,6525,Fuelwood,2022,2022,TJ,5,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,670,Saint Vincent and the Grenadines,5852,Energy production,6525,Fuelwood,2022,2022,TJ,63,X,Figure from external organization,,0,North America
+BE,Bioenergy,882,Samoa,5852,Energy production,6525,Fuelwood,2022,2022,TJ,861,X,Figure from external organization,,2831,Oceania
+BE,Bioenergy,678,Sao Tome and Principe,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1061,X,Figure from external organization,,964,Africa
+BE,Bioenergy,686,Senegal,5852,Energy production,6525,Fuelwood,2022,2022,TJ,75565,X,Figure from external organization,,196722,Africa
+BE,Bioenergy,688,Serbia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,67641,X,Figure from external organization,,77474,Europe
+BE,Bioenergy,690,Seychelles,5852,Energy production,6525,Fuelwood,2022,2022,TJ,28,X,Figure from external organization,,455,Africa
+BE,Bioenergy,694,Sierra Leone,5852,Energy production,6525,Fuelwood,2022,2022,TJ,56023,X,Figure from external organization,,71740,Africa
+BE,Bioenergy,702,Singapore,5852,Energy production,6525,Fuelwood,2022,2022,TJ,250,X,Figure from external organization,,719,Asia
 BE,Bioenergy,703,Slovakia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,30716,X,Figure from external organization,,,Europe
-BE,Bioenergy,705,Slovenia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,21943,X,Figure from external organization,,,Europe
-BE,Bioenergy,090,Solomon Islands,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1246,X,Figure from external organization,,,Oceania
-BE,Bioenergy,706,Somalia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,156414,X,Figure from external organization,,,Africa
-BE,Bioenergy,710,South Africa,5852,Energy production,6525,Fuelwood,2022,2022,TJ,84952,X,Figure from external organization,,,Africa
-BE,Bioenergy,728,South Sudan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,8348,X,Figure from external organization,,,Africa
-BE,Bioenergy,724,Spain,5852,Energy production,6525,Fuelwood,2022,2022,TJ,135401,X,Figure from external organization,,,Europe
-BE,Bioenergy,144,Sri Lanka,5852,Energy production,6525,Fuelwood,2022,2022,TJ,132685,X,Figure from external organization,,,Asia
-BE,Bioenergy,729,Sudan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,172651,X,Figure from external organization,,,Africa
-BE,Bioenergy,740,Suriname,5852,Energy production,6525,Fuelwood,2022,2022,TJ,792,X,Figure from external organization,,,South America
-BE,Bioenergy,752,Sweden,5852,Energy production,6525,Fuelwood,2022,2022,TJ,236944,X,Figure from external organization,,,Europe
-BE,Bioenergy,756,Switzerland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,45430,X,Figure from external organization,,,Europe
-BE,Bioenergy,760,Syrian Arab Republic,5852,Energy production,6525,Fuelwood,2022,2022,TJ,339,X,Figure from external organization,,,Unknown
-BE,Bioenergy,762,Tajikistan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,50142,X,Figure from external organization,,,Asia
-BE,Bioenergy,764,Thailand,5852,Energy production,6525,Fuelwood,2022,2022,TJ,109582,X,Figure from external organization,,,Asia
-BE,Bioenergy,626,Timor-Leste,5852,Energy production,6525,Fuelwood,2022,2022,TJ,646,X,Figure from external organization,,,Asia
-BE,Bioenergy,768,Togo,5852,Energy production,6525,Fuelwood,2022,2022,TJ,127838,X,Figure from external organization,,,Africa
-BE,Bioenergy,776,Tonga,5852,Energy production,6525,Fuelwood,2022,2022,TJ,18,X,Figure from external organization,,,Oceania
-BE,Bioenergy,780,Trinidad and Tobago,5852,Energy production,6525,Fuelwood,2022,2022,TJ,268,X,Figure from external organization,,,North America
-BE,Bioenergy,788,Tunisia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,40720,X,Figure from external organization,,,Africa
-BE,Bioenergy,792,Türkiye,5852,Energy production,6525,Fuelwood,2022,2022,TJ,56940,X,Figure from external organization,,,Unknown
-BE,Bioenergy,795,Turkmenistan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,79,X,Figure from external organization,,,Asia
+BE,Bioenergy,705,Slovenia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,21943,X,Figure from external organization,,20273,Europe
+BE,Bioenergy,090,Solomon Islands,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1246,X,Figure from external organization,,28896,Oceania
+BE,Bioenergy,706,Somalia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,156414,X,Figure from external organization,,0,Africa
+BE,Bioenergy,710,South Africa,5852,Energy production,6525,Fuelwood,2022,2022,TJ,84952,X,Figure from external organization,,0,Africa
+BE,Bioenergy,728,South Sudan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,8348,X,Figure from external organization,,644329,Africa
+BE,Bioenergy,724,Spain,5852,Energy production,6525,Fuelwood,2022,2022,TJ,135401,X,Figure from external organization,,505370,Europe
+BE,Bioenergy,144,Sri Lanka,5852,Energy production,6525,Fuelwood,2022,2022,TJ,132685,X,Figure from external organization,,65610,Asia
+BE,Bioenergy,729,Sudan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,172651,X,Figure from external organization,,1861484,Africa
+BE,Bioenergy,740,Suriname,5852,Energy production,6525,Fuelwood,2022,2022,TJ,792,X,Figure from external organization,,163820,South America
+BE,Bioenergy,752,Sweden,5852,Energy production,6525,Fuelwood,2022,2022,TJ,236944,X,Figure from external organization,,450295,Europe
+BE,Bioenergy,756,Switzerland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,45430,X,Figure from external organization,,41277,Europe
+BE,Bioenergy,760,Syrian Arab Republic,5852,Energy production,6525,Fuelwood,2022,2022,TJ,339,X,Figure from external organization,,144100,Unknown
+BE,Bioenergy,762,Tajikistan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,50142,X,Figure from external organization,,144100,Asia
+BE,Bioenergy,764,Thailand,5852,Energy production,6525,Fuelwood,2022,2022,TJ,109582,X,Figure from external organization,,513120,Asia
+BE,Bioenergy,626,Timor-Leste,5852,Energy production,6525,Fuelwood,2022,2022,TJ,646,X,Figure from external organization,,14874,Asia
+BE,Bioenergy,768,Togo,5852,Energy production,6525,Fuelwood,2022,2022,TJ,127838,X,Figure from external organization,,56785,Africa
+BE,Bioenergy,776,Tonga,5852,Energy production,6525,Fuelwood,2022,2022,TJ,18,X,Figure from external organization,,0,Oceania
+BE,Bioenergy,780,Trinidad and Tobago,5852,Energy production,6525,Fuelwood,2022,2022,TJ,268,X,Figure from external organization,,5128,North America
+BE,Bioenergy,788,Tunisia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,40720,X,Figure from external organization,,163610,Africa
+BE,Bioenergy,792,T?kiye,5852,Energy production,6525,Fuelwood,2022,2022,TJ,56940,X,Figure from external organization,,783562,Unknown
+BE,Bioenergy,795,Turkmenistan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,79,X,Figure from external organization,,488100,Asia
 BE,Bioenergy,796,Turks and Caicos Islands,5852,Energy production,6525,Fuelwood,2022,2022,TJ,11,X,Figure from external organization,,,Unknown
-BE,Bioenergy,800,Uganda,5852,Energy production,6525,Fuelwood,2022,2022,TJ,672274,X,Figure from external organization,,,Africa
-BE,Bioenergy,804,Ukraine,5852,Energy production,6525,Fuelwood,2022,2022,TJ,150660,X,Figure from external organization,,,Europe
-BE,Bioenergy,826,United Kingdom of Great Britain and Northern Ireland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,31364,X,Figure from external organization,,,Unknown
-BE,Bioenergy,834,United Republic of Tanzania,5852,Energy production,6525,Fuelwood,2022,2022,TJ,598751,X,Figure from external organization,,,Unknown
-BE,Bioenergy,840,United States of America,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1463629,X,Figure from external organization,,,Unknown
-BE,Bioenergy,850,United States Virgin Islands,5852,Energy production,6525,Fuelwood,2022,2022,TJ,31,X,Figure from external organization,,,Unknown
-BE,Bioenergy,858,Uruguay,5852,Energy production,6525,Fuelwood,2022,2022,TJ,22488,X,Figure from external organization,,,South America
-BE,Bioenergy,860,Uzbekistan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,621,X,Figure from external organization,,,Asia
-BE,Bioenergy,548,Vanuatu,5852,Energy production,6525,Fuelwood,2022,2022,TJ,831,X,Figure from external organization,,,Oceania
-BE,Bioenergy,862,Venezuela (Bolivarian Republic of),5852,Energy production,6525,Fuelwood,2022,2022,TJ,9526,X,Figure from external organization,,,Unknown
-BE,Bioenergy,704,Viet Nam,5852,Energy production,6525,Fuelwood,2022,2022,TJ,185146,X,Figure from external organization,,,Unknown
-BE,Bioenergy,876,Wallis and Futuna Islands,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7,X,Figure from external organization,,,Unknown
-BE,Bioenergy,887,Yemen,5852,Energy production,6525,Fuelwood,2022,2022,TJ,5860,X,Figure from external organization,,,Asia
-BE,Bioenergy,720,Yemen Dem,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,M,Missing value; data cannot exist,,,Unknown
-BE,Bioenergy,894,Zambia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,298618,X,Figure from external organization,,,Africa
-BE,Bioenergy,716,Zimbabwe,5852,Energy production,6525,Fuelwood,2022,2022,TJ,213166,X,Figure from external organization,,,Africa
+BE,Bioenergy,800,Uganda,5852,Energy production,6525,Fuelwood,2022,2022,TJ,672274,X,Figure from external organization,,241038,Africa
+BE,Bioenergy,804,Ukraine,5852,Energy production,6525,Fuelwood,2022,2022,TJ,150660,X,Figure from external organization,,603550,Europe
+BE,Bioenergy,826,United Kingdom of Great Britain and Northern Ireland,5852,Energy production,6525,Fuelwood,2022,2022,TJ,31364,X,Figure from external organization,,243610,Unknown
+BE,Bioenergy,834,United Republic of Tanzania,5852,Energy production,6525,Fuelwood,2022,2022,TJ,598751,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,840,United States of America,5852,Energy production,6525,Fuelwood,2022,2022,TJ,1463629,X,Figure from external organization,,9833517,Unknown
+BE,Bioenergy,850,United States Virgin Islands,5852,Energy production,6525,Fuelwood,2022,2022,TJ,31,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,858,Uruguay,5852,Energy production,6525,Fuelwood,2022,2022,TJ,22488,X,Figure from external organization,,176215,South America
+BE,Bioenergy,860,Uzbekistan,5852,Energy production,6525,Fuelwood,2022,2022,TJ,621,X,Figure from external organization,,447400,Asia
+BE,Bioenergy,548,Vanuatu,5852,Energy production,6525,Fuelwood,2022,2022,TJ,831,X,Figure from external organization,,0,Oceania
+BE,Bioenergy,862,Venezuela (Bolivarian Republic of),5852,Energy production,6525,Fuelwood,2022,2022,TJ,9526,X,Figure from external organization,,912050,Unknown
+BE,Bioenergy,704,Viet Nam,5852,Energy production,6525,Fuelwood,2022,2022,TJ,185146,X,Figure from external organization,,331210,Unknown
+BE,Bioenergy,876,Wallis and Futuna Islands,5852,Energy production,6525,Fuelwood,2022,2022,TJ,7,X,Figure from external organization,,0,Unknown
+BE,Bioenergy,887,Yemen,5852,Energy production,6525,Fuelwood,2022,2022,TJ,5860,X,Figure from external organization,,527968,Asia
+BE,Bioenergy,720,Yemen Dem,5852,Energy production,6525,Fuelwood,2022,2022,TJ,0,M,Missing value; data cannot exist,,0,Unknown
+BE,Bioenergy,894,Zambia,5852,Energy production,6525,Fuelwood,2022,2022,TJ,298618,X,Figure from external organization,,752618,Africa
+BE,Bioenergy,716,Zimbabwe,5852,Energy production,6525,Fuelwood,2022,2022,TJ,213166,X,Figure from external organization,,390757,Africa
